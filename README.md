@@ -1,9 +1,3 @@
-###  Hi there, I'm Knut 👋
-
-## I'm a first year informatics master student
-- I'm currently working on learning React ⚛️ and firebase 🔥
-- Passionate runner 🏃
-- Generally interested in anything technology related 📟
 
 ### Connect with me:
 
