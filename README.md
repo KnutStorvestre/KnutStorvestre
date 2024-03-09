@@ -1,7 +1,7 @@
 Hi! My name is Knut Storvestre 😄
 ========================================================================================================================================
 
-🌍  I am based in Bergen, Norway.
+🌍  I am based in Bergen, Norway.
 <br/>
 🎓  I have a Master's in Secure and reliable communication from the University of Bergen (UiB)
 
