@@ -1,6 +1,9 @@
 Hi! My name is Knut Storvestre 😄
 ========================================================================================================================================
 
+🌍  I am based in Bergen, Norway.
+🎓  I have a Master's in Secure and reliable communication from the University of Bergen (UiB)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
