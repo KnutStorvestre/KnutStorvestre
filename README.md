@@ -4,6 +4,8 @@ Hi! My name is Knut Storvestre 😄
 🌍  I am based in Bergen, Norway.
 <br/>
 🎓  I have a Master's in Secure and reliable communication from the University of Bergen (UiB)
+<br/>
+ <a href="http://www.knutmathias.com/">Visit my webpage!</a> 
 
 ### Socials:
 
