@@ -5,7 +5,7 @@ Hi! My name is Knut Storvestre 😄
 <br/>
 🎓  I have a Master's in Secure and reliable communication from the University of Bergen (UiB)
 <br/>
- <a href="http://www.knutmathias.com/">Visit my webpage!</a> 
+🌐 Visit my <a href="http://www.knutmathias.com/"> webpage!</a>.
 
 ### Socials:
 
