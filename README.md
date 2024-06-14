@@ -31,7 +31,7 @@ Hi! My name is Knut Storvestre 😄
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,react,java,python,nodejs,mysql,bash,linux,aws,vite,figma" />
   </a>
 </p>
 
