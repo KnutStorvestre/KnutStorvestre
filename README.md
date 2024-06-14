@@ -18,7 +18,7 @@ Hi! My name is Knut Storvestre 😄
 <p align="center">
   <h1>Languages and Tools</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,react,java,python,nodejs,mysql,bash,linux,aws,vite,figma" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,ts,react,java,python,nodejs,mysql,bash,linux,ubuntu,aws,vite,figma" />
   </a>
 </p>
 
