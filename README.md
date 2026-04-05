@@ -1,4 +1,4 @@
-Hi! My name is Knut Storvestre 😄
+Hi! My name is Knut Storvestre 
 ========================================================================================================================================
 
 🌍  I am based in Bergen, Norway.
